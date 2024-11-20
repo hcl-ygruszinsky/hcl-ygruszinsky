@@ -7,6 +7,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with strong ex
 - 🏎️ **Hobby:** When I'm not coding, you might find me at the track, enjoying my love for gokarting!
 - 🌱 **Learning:** Always exploring new frameworks, tools, and techniques to improve as a developer and build high-quality software.
 
+### Spring Boot Documentation
+For more in-depth insights and examples, check out my [Spring Boot documentation](https://orgacard.atlassian.net/wiki/spaces/~y.gruszinsky/pages/75274719/Yanniks+Spring+Boot+Doku).
+
+
 ### My GitHub Projects
 Here, you'll find a selection of projects showcasing my work in:
 - **Backend Development:** Building microservices, REST APIs, and integrations.
